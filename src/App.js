@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>This is amplify</h1>
+      <h2>Added content</h2>
     </div>
   );
 }
